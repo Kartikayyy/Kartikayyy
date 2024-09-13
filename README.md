@@ -102,8 +102,11 @@ Passionate React.js developer dedicated to creating dynamic and responsive user 
 
 
 </p>
+<hr>
 
+[![kartikay28's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=kartikay28&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
+<hr>
 
 ### Github Stats
 
